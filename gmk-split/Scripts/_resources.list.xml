@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<resources>
+  <resource name="script_create" type="RESOURCE"/>
+  <resource name="script_draw" type="RESOURCE"/>
+  <resource name="script_control" type="RESOURCE"/>
+  <resource name="script_next" type="RESOURCE"/>
+  <resource name="script_click" type="RESOURCE"/>
+  <resource name="script_draw_normal" type="RESOURCE"/>
+  <resource name="script_input" type="RESOURCE"/>
+  <resource name="script_question" type="RESOURCE"/>
+</resources>

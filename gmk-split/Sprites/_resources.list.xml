@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<resources>
+  <resource name="sprite_button0" type="RESOURCE"/>
+  <resource name="sprite_button1" type="RESOURCE"/>
+  <resource name="sprite_textbox" type="RESOURCE"/>
+  <resource name="sprite_windows" type="RESOURCE"/>
+  <resource name="sprite_mac" type="RESOURCE"/>
+  <resource name="sprite_linux" type="RESOURCE"/>
+  <resource name="sprite_cpu" type="RESOURCE"/>
+  <resource name="sprite_steve_woznika" type="RESOURCE"/>
+  <resource name="sprite_dennis_ritchie" type="RESOURCE"/>
+  <resource name="sprite_richard_stallman" type="RESOURCE"/>
+  <resource name="sprite_grace_hopper" type="RESOURCE"/>
+  <resource name="sprite_keven_mitnick" type="RESOURCE"/>
+  <resource name="sprite_linus_torvalds" type="RESOURCE"/>
+  <resource name="sprite_john_carmack" type="RESOURCE"/>
+  <resource name="sprite_christopher_zeckhauser" type="RESOURCE"/>
+</resources>

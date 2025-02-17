@@ -1,0 +1,8 @@
+draw_sprite(sprite_textbox,0,room_width/2,256)
+if string_length(keyboard_string) = 0 draw_text(room_width/2,256,"[Type Here]")
+if string_length(keyboard_string) > 0 draw_text(room_width/2,256,keyboard_string)
+draw_sprite(sprite_button1,0,room_width/2,384)
+draw_set_font(font_button_small)
+draw_set_color(c_white)
+draw_text(room_width/2,384,"OK")
+draw_set_color(0)
